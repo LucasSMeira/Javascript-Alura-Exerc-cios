@@ -5,3 +5,11 @@ const boolean = false;
 console.log(typeof string);
 console.log(typeof num);
 console.log(typeof boolean);
+
+const primeiroNome = "Lucas";
+const ultimoNome = "Meira";
+const nomeCompleto = primeiroNome+ultimoNome;
+const templateString = `Primeiro nome "${primeiroNome}" e ultimo nome "${ultimoNome}"`;
+
+console.log(nomeCompleto);
+console.log(templateString);
