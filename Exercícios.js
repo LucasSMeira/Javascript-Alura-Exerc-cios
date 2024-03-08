@@ -46,3 +46,14 @@ if(boolean  == false){
 console.log(testesDois);
 
 */
+
+const estaChovendo = false;
+
+    if(estaChovendo == true){
+        const texto = "Levar Guarda-Chuva porque está chovendo , cuidado !!!";
+        console.log(texto);
+    }
+    else{
+        texto = "Não está chovendo";
+        console.log(texto);
+    }
