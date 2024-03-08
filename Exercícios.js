@@ -18,3 +18,8 @@ const palavra = "aleatoria";
 const numero = 37;
 const stringAleatoria = `Sua palavra do dia é "${palavra}" e número da sorte "${numero}"`;
 console.log(stringAleatoria);
+
+let variavel = 999;
+console.log(variavel);
+variavel = "string";
+console.log(variavel);
