@@ -13,3 +13,8 @@ const templateString = `Primeiro nome "${primeiroNome}" e ultimo nome "${ultimoN
 
 console.log(nomeCompleto);
 console.log(templateString);
+
+const palavra = "aleatoria";
+const numero = 37;
+const stringAleatoria = `Sua palavra do dia é "${palavra}" e número da sorte "${numero}"`;
+console.log(stringAleatoria);
