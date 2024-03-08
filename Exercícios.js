@@ -23,3 +23,26 @@ let variavel = 999;
 console.log(variavel);
 variavel = "string";
 console.log(variavel);
+
+var teste = 64;
+console.log(teste);
+if(boolean  == false){
+    var testes = "string";
+    console.log(teste);
+    console.log(testes);
+}
+
+console.log(testes);
+/*  Segunda parte do Exercício 5 , ocorre um erro ao tentar acessar a variavel de fora do bloco dentro dele 
+
+let testeDois = 32;
+console.log(testeDois);
+if(boolean  == false){
+    let testesDois = "mudou";
+    console.log(testeDois);
+    console.log(testesDois);
+}
+
+console.log(testesDois);
+
+*/
